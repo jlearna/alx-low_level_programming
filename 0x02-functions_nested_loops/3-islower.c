@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * islower - main func to compare character case
+ * _islower - main func to compare character case
  *
  * @c: character to compare
  *
