@@ -42,4 +42,11 @@ void print_most_numbers(void);
  * Return: 1 or 0
  */
 int _putchar(char c);
+
+
+/**
+ * more_numbers - prints the numbers
+ *
+ */
+void more_numbers(void);
 #endif
