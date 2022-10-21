@@ -56,4 +56,11 @@ void more_numbers(void);
  * @n: integer to print stuff
  */
 void print_line(int n);
+
+/**
+ * print_diagonal - prints diagonal
+ *
+ * @n: integer to see how many stupid lines
+ */
+void print_diagonal(int n);
 #endif
