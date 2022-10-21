@@ -63,4 +63,11 @@ void print_line(int n);
  * @n: integer to see how many stupid lines
  */
 void print_diagonal(int n);
+
+/**
+ * print_square - prints a square
+ *
+ * @size: prints the size of whatever
+ */
+void print_square(int size);
 #endif
