@@ -29,4 +29,10 @@ int mul(int a, int b);
  *
  */
 void print_numbers(void);
+
+/**
+ * print_most_numbers - prints the numbers
+ *
+ */
+void print_most_numbers(void);
 #endif
