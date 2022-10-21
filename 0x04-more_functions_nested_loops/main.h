@@ -23,4 +23,10 @@ int _isdigit(int c);
  * Return: gives result
  */
 int mul(int a, int b);
+
+/**
+ * print_numbers - prints the numbers
+ *
+ */
+void print_numbers(void);
 #endif
