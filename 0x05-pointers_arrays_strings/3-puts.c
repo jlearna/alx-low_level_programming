@@ -3,7 +3,7 @@
 /**
  * _puts - prints a string, followed by a new line
  * @str: input
- * @Return: nothing
+ * Return: nothing
  */
 void _puts(char *str)
 {
