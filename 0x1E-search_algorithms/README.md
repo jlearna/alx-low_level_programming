@@ -1,15 +1,3 @@
-## Search Algorithms in C
+0x1E. C - Search Algorithms
 
-This directory hold code task for searching algorithm in C programming.
-
-> Linear search, binary search, space complexity. Resources: [Wiki on Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm),
-> [Space Complexity & Data Structures in general](http://btechsmartclass.com/DS/U1_T3.html)
-
-### Environment
-* Language: C v89
-* OS: Ubuntu 14.04 LTS
-* Compiler: gcc 4.8.4
-* Style guidelines 
-
----
-
+This is a repository containing searching algorithms implemented in C programming language.
